@@ -1,0 +1,5 @@
+reboot
+esc at second boot prompt
+ignore startup-config
+reload
+write memory
